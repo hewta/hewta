@@ -9,6 +9,7 @@ Often found around community initiatives, open-source projects, and dogs.
 💬 Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-verma-04b135171/)
+[![Gmail](https://img.shields.io/badge/gmail:%20skvermadbg4@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red)](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AaSxoQzPUVO_5wDov5UW9C3B4KKVd3c77U61NWEJVMlcdxLyD_5k5S55Y-w-dzoTdizXrCfvniqB8Q&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S772534617%3A1717010854427997&ddm=0)
 
 #### Languages & Tools
 
